@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/mefata/"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/mefata/" target="_blank"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 ### Languages and Tools:
 
