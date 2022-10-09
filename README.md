@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Muhammad Emillul Fata
+### I'am a Student, Learner, and Developer!
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning ReactJS and Machine Learning.
+- 🌱 I’m currently learning **ReactJS** and **Machine Learning**.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- 😄 Pronouns: ...-->
+- ⚡ Fun fact: I like reading books:book: and coffee:coffee:
 
 ### Connect with me:
 
